@@ -1,6 +1,6 @@
 # 🚀 Kernel-Flow
 
-> A modern full-stack project built with performance, scalability, and clean architecture in mind.
+> KernelFlow is a high-fidelity Operating System scheduling simulator designed to bridge the gap between theoretical process management and real-time execution. Featuring a professional-grade glassmorphism interface, it provides tick-by-tick visualization of complex algorithms like SRTF and Round Robin through interactive Gantt charts and live event streams. By offering precise performance analytics and side-by-side algorithm benchmarking, KernelFlow serves as a powerful laboratory for analyzing CPU efficiency and workload optimization.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/muhammad-abdullaahh/Kernel-Flow?color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/muhammad-abdullaahh/Kernel-Flow?style=social)
