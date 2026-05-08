@@ -43,9 +43,6 @@ The goal of this project is to build a scalable and maintainable application usi
 - Python
 - Flask / FastAPI *(edit if needed)*
 
-## Database
-- SQLite / PostgreSQL *(edit if needed)*
-
 ## Tools & Platforms
 - Git
 - GitHub
