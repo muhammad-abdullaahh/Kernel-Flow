@@ -9,15 +9,6 @@
 
 ---
 
-# 📌 Overview
-
-Kernel-Flow is a powerful and structured project designed to deliver a smooth and efficient development experience.  
-This repository contains the complete source code, backend logic, frontend components, configurations, and project architecture.
-
-The goal of this project is to build a scalable and maintainable application using modern development practices and clean coding standards.
-
----
-
 # ✨ Features
 
 ✅ Clean and organized project structure  
